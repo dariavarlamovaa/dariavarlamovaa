@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dariavarlamovaa
-- 👀 I’m interested in coding and doing sports (gym).
+- 👩🏼‍💻 I’m interested in coding and doing sports (gym).
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
