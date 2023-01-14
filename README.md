@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dariavarlamovaa
+- 👋 Hi, I’m Daria Varlamova
 - 👩🏼‍💻 I’m interested in coding and doing sports (gym).
 - 🌱 I’m currently learning JavaScript and Python
 
