@@ -14,7 +14,7 @@ I'm a backend developer, and I have a strong enthusiasm for creating digital int
 **Others:** `Git` `HTML5` `CSS3`
 
 
-## ✨ Fun Facts 
+## ⚡️ Fun Facts 
 
 - Rowan Atkinson is my favorite actor.
 - As a kid, I wanted to become a doctor.
