@@ -9,7 +9,7 @@ I'm a backend developer, and I have a strong enthusiasm for creating digital int
 
 **Testing:** `Unittest` `Pytest`
 
-**Databases:** `MySQL` `SQLite`
+**Databases:** `MySQL` `SQLite` `PostgreSQL`
 
 **Others:** `Git` `HTML5` `CSS3`
 
