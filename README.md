@@ -5,13 +5,13 @@ I'm a backend developer, and I have a strong enthusiasm for creating digital int
 
 **Frontend Development:** `JavaScript`
  
-**Backend Development:** `Python` `Django` `DjangoRestFramework` `Flask`
+**Backend Development:** `Python` `Django` `DjangoRestFramework` `Flask` `FastAPI`
 
 **Testing:** `Unittest` `Pytest`
 
-**Databases:** `MySQL` `SQLite` `PostgreSQL`
+**Databases** `MySQL` `SQLite` `PostgreSQL`
 
-**Others:** `Git` `HTML5` `CSS3`
+**Others:** `Git` `HTML5` `CSS3` `Alembic` `Pydantic` `Postman` 
 
 
 ## ⚡️ Fun Facts 
