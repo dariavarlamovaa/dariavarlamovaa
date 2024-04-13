@@ -11,7 +11,7 @@ I'm a backend developer, and I have a strong enthusiasm for creating digital int
 
 **Databases** `MySQL` `SQLite` `PostgreSQL`
 
-**Others:** `Git` `HTML5` `CSS3` `Alembic` `Pydantic` `Postman` 
+**Others:** `Git` `HTML5` `CSS3` `Alembic` `Pydantic` `Postman` `Swagger` 
 
 
 ## ⚡️ Fun Facts 
