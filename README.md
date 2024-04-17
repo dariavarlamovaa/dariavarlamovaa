@@ -24,3 +24,8 @@ I'm a backend developer, and I have a strong enthusiasm for creating digital int
 ## 📫 Contact
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/dariavarlamovaa/). 
+
+
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9veDVndm1xcXJkeWU1cmVyNjVibzV1dno2ZjhxNjkxM2gxamM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" />
