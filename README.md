@@ -1,5 +1,5 @@
 ### Hey, I'm Daria 👋🏽  
-I'm a backend developer, and I have a strong enthusiasm for creating digital interactions.
+I'm a backend developer based in Finland, and I have a strong enthusiasm for creating digital interactions.
 
 ## 📦 Toolbox
 
