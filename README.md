@@ -11,7 +11,7 @@ I'm a backend developer based in Finland, and I have a strong enthusiasm for cre
 
 **Databases** `MySQL` `SQLite` `PostgreSQL`
 
-**Others:** `Git` `HTML5` `CSS3` `Alembic` `Pydantic` `Postman` `Swagger` `Docker` `GraphQL`
+**Others:** `Git` `HTML5` `CSS3` `Alembic` `Pydantic` `Postman` `Swagger` `Docker` `GraphQL` `Leaflet`
 
 
 ## ⚡️ Fun Facts 
